@@ -1,4 +1,5 @@
 -Student: Văn Huỳnh Công Thanh.
+
 -class: CIJS78.
 
 1.Problem solving 1.
